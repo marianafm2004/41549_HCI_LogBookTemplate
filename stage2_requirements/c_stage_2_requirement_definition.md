@@ -49,15 +49,17 @@
 
 ## Scenario 1: Maria goes on a Museum Tour
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
+[Após um longo dia de trabalho no hospital, a Sónia chega a casa cansada, mas aliviada ao saber que o jantar já está completamente organizado com a ajuda do NutriChef. Ao sentar-se no sofá, relaxa um pouco e abre a app, encontrando imediatamente o menu do dia, que inclui frango com molho teriyaki, brócolos assados e arroz soltinho. A aplicação mostra os ingredientes que vai precisar e a Sónia já os tem, uma vez que já tinha planeado o menu semanal e feito todas as compras no domingo.]
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
-
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
-
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+[A Sónia verifica rapidamente a lista e retira os ingredientes necessários, colocando-os no balcão da cozinha para começar a preparação. Com a ajuda do NutriChef, consulta passo a passo como preparar o molho teriyaki, algo que nunca havia feito antes. A aplicação simplifica todo o processo, permitindo que Sónia cozinhe de forma fácil e eficaz.]
 
 ---
+## Scenario 2: Xandinho pós-ginásio
+[Alexandre saiu do ginásio cansado, mas motivado. Sabia que precisava de uma refeição rica em proteína para ajudar na recuperação muscular, mas a ideia de cozinhar algo elaborado depois de um treino puxado não lhe agradava.  ]
+
+[Assim que chegou a casa, abriu a nossa app. A interface simples sugeriu-lhe automaticamente uma receita de wrap de frango com molho de iogurte, rica em proteína e pronta em menos de 10 minutos — perfeita para o pós-treino. Como tinha alguns ingredientes em falta, a app sugeriu substituições rápidas e práticas, como trocar o espinafre (que ele não gosta) por alface.   ]
+
+[No final, a app mostrou-lhe um resumo dos macronutrientes da refeição — 40g de proteína, 30g de hidratos e 10g de gordura — confirmando que estava alinhado com o seu plano de treino. Sentiu-se satisfeito por ter conseguido preparar uma refeição equilibrada sem complicações.  ]
 
 
 # Requirements
