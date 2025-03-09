@@ -70,8 +70,30 @@
 
 ## C.1. Functional requirements
 
+-Permitir aos utilizadores criar e gerir menus semanais personalizados;
+
+-Questionar inicialmente o utilizador sobre objetivos nutricionais específicos (perda de peso, dieta vegana, etc) e adaptar automaticamente as calorias e macros recomendadas, conforme os seus objetivos e o seu corpo;
+
+-Fornecer sugestões de receitas com base nos ingredientes disponíveis;
+
+-Monitorizar e exibir valores nutricionais detalhados e calorias consumidas diariamente;
+
+-Gerar automaticamente listas de compras a partir das refeições planeadas;
+
+-Oferecer opções de personalização de receitas com base em restrições alimentares e preferências;
+
 
 ## C.2. Non-functional requirements
+
+-Interface intuitiva e fácil de usar;
+
+-Alta personalização com perfis e preferências individuais;
+
+-Bom desempenho e tempos rápidos de resposta;
+
+-Compatibilidade com diferentes dispositivos móveis;
+
+-Capacidade de sincronização e armazenamento seguro dos dados;
 
 
 ---
