@@ -26,7 +26,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Faz escolhas das restrições alimentares sem informação nenhuma | 2            | Incluir descrição de cada restrição               |
+| Escolher restrições alimentares sem explicação de cada uma | 2            | Incluir descrições detalhadas de cada restrição               |
 
 
 # 3 User Control and Freedom
@@ -68,7 +68,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Dificil alterar receitas | 2              | Tornar mais intuitivo chegar ao bot que altera as receitas              |
+| Dificil alterar receitas | 2              | Facilitar o acesso ao bot de edição de receitas, tornando a navegação mais intuitiva              |
 
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
@@ -86,7 +86,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Dificil alterar receitas | 2            |  Utilizar o bot para alterar receitas               |
+| Dificil alterar receitas | 2            |  Não utilizar o bot para alterar receitas,fazer manualmente               |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 

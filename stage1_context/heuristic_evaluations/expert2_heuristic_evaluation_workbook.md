@@ -26,7 +26,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Faz escolhas sem informação nenhuma | 2            |Ao adicionar a receita a app adicionar tambem as calorias e macros                 |
+| Escolher restrições alimentares sem explicação de cada uma | 2            | Fornecer explicações claras sobre cada restrição alimentar                |
 
 
 # 3 User Control and Freedom

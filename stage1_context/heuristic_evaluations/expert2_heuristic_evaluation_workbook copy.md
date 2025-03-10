@@ -48,7 +48,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Sem Calorias ou macros | 3            |  Automatizar cálculo das calorias e macros                |
+|  As receitas não contém calorias nem macros | 3            |  Automatizar cálculo das calorias e macros                |
 
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
@@ -57,7 +57,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| É possivel criar receitas sem nada | 1            |Exigir pelo menos um ingrediente por receita               |
+| É possivel criar receitas vazias | 1            |Exigir pelo menos um ingrediente por receita               |
 
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
@@ -84,7 +84,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Sem calorias nem macros | 2            | Preservar detalhes essenciais como calorias e macros                |
+|  As receitas não contém calorias nem macros | 2            | Preservar detalhes essenciais como calorias e macros                |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
