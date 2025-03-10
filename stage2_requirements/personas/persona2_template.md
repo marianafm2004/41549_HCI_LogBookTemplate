@@ -1,4 +1,4 @@
-# ![Alexandre](personas/persona2.jpeg)  
+# ![Alexandre](persona2.jpeg) 
 **Name:** [Alexandre]  
 **Age:** [19 anos]  
 **Occupation:** [Estudante Universitário]  
@@ -30,11 +30,11 @@
 [Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
 
 **Tem dificuldades em :**
-    **- Repetição de refeições.**
-    **- Dieta desequilibrada.**
-    **- Falta de tempo.**
-    **- Falta de organização.**
-    **- Desmotivação.**
+- Repetição de refeições;
+- Dieta desequilibrada;
+- Falta de tempo;
+- Falta de organização;
+- Desmotivação.
 
 ## Motivation  
 *"Why do they engage with this product or service?"*  

@@ -48,7 +48,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Sem Calorias ou macros | 3            | Ao adicionar a receita a app adicionar tambem as calorias e macros                |
+| As receitas não contém calorias nem macros | 3            | Adicionar automaticamente calorias e macros ao incluir receitas na aplicação                |
 
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
@@ -57,7 +57,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| É possivel criar receitas sem nada | 1            |Dar erro quando a receita não contiver nada                |
+| É possivel criar receitas vazias | 1            |Dar erro ao tentar guardar a receita quando estiver vazia                |
 
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
@@ -66,7 +66,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Navegação na app é dificil | 2            | Atualizar o UI para tornar a navegação mais facil               |
+| Navegação na app é dificil | 2            | Melhorar a interface para facilitar a navegação               |
 
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
@@ -75,7 +75,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Dificil adicionar receitas | 3            | Ter algumas receitas na app, para não ter que ir sempre à web para encontrar uma               |
+| Dificil adicionar receitas | 3            | Ter algumas receitas na app para facilitar o utilizador             |
 
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -84,7 +84,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Sem calorias nem macros | 2            | Não reduzir tanto a informação da receita pois está a perder informações importantes               |
+|  As receitas não contém calorias nem macros | 2            | Evitar reduzir excessivamente os detalhes da receita para não perder informações essenciais               |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
