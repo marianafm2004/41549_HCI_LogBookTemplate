@@ -107,6 +107,8 @@ Task: [This is the task]
 ## B.2a. Method
 
 [What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+
+**Para falar com os entrevistados, foi feita uma dinâmica em sala de aula. Os tipos de utilizadores que foram considerados foram alunos universátios presentes na sala de aula. As entrevistas tiveram como objetivo perceber os possiveis problemas existentes e receber pontos de vista que préviamente talvez não tenham sido considerados. As questões consideradas foram inicialmente para alertar o entrevistado do problema, visto que este pode nem se ter aprecebido do mesmo e numa fase mais avançada questões de preferiências, opinião e desejo de resolução.**
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
@@ -114,20 +116,18 @@ Task: [This is the task]
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| 25-02-2025 | Anonymous / student| Gostava de uma App mais relacionada com Fitness                 | [📄 Notes](interview-1.md)   |     |
+| 25-02-2025 | Anonymous / student| Gostava de uma App mais relacionada com Receitas e agendamento de refeições| [📄 Notes](interview-2.md)   |     |
 
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+	- Ter o seu menu semanal organizado
+	- Encontrar substituição de alimentos que não tem
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+	- Pesquisa no Google
 - **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+	- Calendário/Agendamento de refeições
 - --- 
 
 
