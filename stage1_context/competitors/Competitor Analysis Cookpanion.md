@@ -37,13 +37,13 @@
 
 ## Online Reviews
 "Good, but one problem.
-Good app but not recommended for people who can’t cook."
+Good app but not recommended for people who can’t cook."- Hazrat Sultan Ismail, 05/03/2024
 
 "Very useful
 Great app, few minor bugs but great functionality and very streamlined." - Joe Pizzle 420,05/05/2024
 
 "Very easy. And fun!
-Recipe sites always drag on and on before they give you the instructions. But this app gets straight to the point. And it does it smoothly and cleanly. And it’s kind of fun (love the robot chef helper!). There’s a VERY quick interview to get to started and that was fun too. I always end up cooking the same things over and over. But this has made it easy to add real mess to my repertoire. Try it!"
+Recipe sites always drag on and on before they give you the instructions. But this app gets straight to the point. And it does it smoothly and cleanly. And it’s kind of fun (love the robot chef helper!). There’s a VERY quick interview to get to started and that was fun too. I always end up cooking the same things over and over. But this has made it easy to add real mess to my repertoire. Try it!"-Vintage MacGyver, 08/13/2024
 
 "Game changer for dinners
-I’m always struggling to figure out what to make for dinner when I get home. Wisk has made this so much easier for me!"
+I’m always struggling to figure out what to make for dinner when I get home. Wisk has made this so much easier for me!" - Joe call33, 08/16/2024
