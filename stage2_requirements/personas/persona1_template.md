@@ -1,4 +1,4 @@
-# ![Sónia](personas/persona1.jpeg)  
+# ![Sónia](image.png)
 **Name:** [Sónia]  
 **Age:** [45 anos]  
 **Occupation:** [Enfermeira]  
@@ -32,12 +32,12 @@
 [Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
 
 **Tem dificuldades em :**
-    **- Falta de tempo para planear refeições.**
-    **- Esquecimento de ingredientes essenciais.**
-    **- Repetição de pratos.**
-    **- Desperdício de alimentos.**
-    **- Falta de controlo nutricional.**
-    **- Dificuldade em encontrar receitas rápidas e simples.**
+- Falta de tempo para planear refeições;
+- Esquecimento de ingredientes essenciais;
+- Repetição de pratos;
+- Desperdício de alimentos;
+- Falta de controlo nutricional;
+- Dificuldade em encontrar receitas rápidas e simples.
 
 ## Motivation  
 *"Why do they engage with this product or service?"*  
