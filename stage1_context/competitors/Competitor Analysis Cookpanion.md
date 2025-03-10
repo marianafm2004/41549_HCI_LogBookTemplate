@@ -16,11 +16,23 @@
 
 **Unique Selling Points (USPs):** - [Listas de compras personalizadas, planeamento semanal colaborativo, salvar recitas da internet, listas de compras dinâmicas. Gerar uma receita aleatórianum botão. Usar AI para ver que ingredientes tem a partir de uma foto e gerar receitas conforme esses ingredientes. ] 
 
-**Limitations/Weaknesses:** - [Para alterar as receitas é preciso usar o ChatBot e muitas das vezes ele não consegue fazer as alterações corretamente. Interface pouco intuitiva e complexa para utilizadores iniciantes. Quando se guarda uma receita apesar de dizer num pop-up que foi guardada, não muda o botão de guardar para mostrar isso. A quantidade dos ingredientes na lista de compras aprece de uma maneira pouco eficaz. ] 
+**Limitations/Weaknesses:** - [Para alterar as receitas é preciso usar o ChatBot e muitas das vezes ele não consegue fazer as alterações corretamente. Interface pouco intuitiva e complexa para utilizadores iniciantes. Quando se guarda uma receita apesar de dizer num pop-up que foi guardada, não muda o botão de guardar para mostrar isso. A quantidade dos ingredientes na lista de compras aprece de uma maneira pouco eficaz. Há receitas que não têm instruções.] 
 
----
+
 
 ## Screenshots
+![AI ingredientes](<Screenshot 2025-03-10 at 15.13.40.png>)
+![Homepage](<Screenshot 2025-03-10 at 15.13.01.png>)
+![Lista de Compras](image-2.png)
+![Planeamento](<Screenshot 2025-03-10 at 15.11.45.png>)
+![Adicionar refeição ao Planeamento](<Screenshot 2025-03-10 at 15.11.42.png>)
+![Adicionar refeição ao Planeamento pt.2](<Screenshot 2025-03-10 at 15.11.36.png>)
+![Criar receita aleatória](<Screenshot 2025-03-10 at 15.11.02.png>)
+![Pagina de preferências e outras coisas](<Screenshot 2025-03-10 at 15.10.56.png>)
+![Timer em receitas](<Screenshot 2025-03-10 at 15.09.51.png>)
+![Passo a passo nas receitas](<Screenshot 2025-03-10 at 15.08.57.png>)
+![Lista de ingredientes no passo a passo](<Screenshot 2025-03-10 at 15.08.36.png>)
+![Receita](<Screenshot 2025-03-10 at 15.04.28.png>)
 
 
 ## Online Reviews
