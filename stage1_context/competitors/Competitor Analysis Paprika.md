@@ -16,7 +16,7 @@
 
 **Unique Selling Points (USPs):** - [Possibilidade de aceder a web para procurar receitas e adicionalas na app facilmente] 
 
-**Limitations/Weaknesses:** - [Dificuldade de adicionar  receitas, falta de calorias nas receitas, estetica rodumentar/Desorganizada] 
+**Limitations/Weaknesses:** - [Dificuldade de adicionar  receitas, falta de calorias nas receitas, estetica rodimentar/Desorganizada] 
 
 ---
 
