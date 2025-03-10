@@ -122,7 +122,7 @@ Task: [This is the task]
 
 - **Recurring Problems:** 
 	- Ter o seu menu semanal organizado
-	- Encontrar substituição de alimentos que não tem
+	- Encontrar substituição de alimentos que não tem em casa
 - **Frequently Used Tools:** 
 	- Pesquisa no Google
 - **Desired Features / Solutions:** 
