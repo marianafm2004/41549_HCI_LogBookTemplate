@@ -16,7 +16,7 @@
 | ----------------- | ------------------------------------------- | ----------------------------------- |
 | [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
 | [Cookpanion] 		| [Plataforma de receitas e planeamento de refeições]   |[[Competitor Analysis Cookpanion]]  | 						
-| ...               |                                             |                                     |
+|                |                                             |                                     |
 
 
 

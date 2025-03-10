@@ -13,7 +13,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Sónia\|100](personas/persona1.png)  |
+| **Photo**        | ![Sónia\|100](personas/persona1.jpeg)  |
 | **Name**         | [Sónia]                                |
 | **Age**          | [45]                                 |
 | **Occupation**   | [Enfermeira]                           |
@@ -28,7 +28,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Alexandre](personas/persona2.png)            |
+| **Photo**        | ![Alexandre](personas/persona2.jpeg)            |
 | **Name**         | [Alexandre]                                |
 | **Age**          | [19]                                 |
 | **Occupation**   | [Estudante Universitário]                           |
@@ -70,30 +70,30 @@
 
 ## C.1. Functional requirements
 
--Permitir aos utilizadores criar e gerir menus semanais personalizados;
+- Permitir aos utilizadores criar e gerir menus semanais personalizados;
 
--Questionar inicialmente o utilizador sobre objetivos nutricionais específicos (perda de peso, dieta vegana, etc) e adaptar automaticamente as calorias e macros recomendadas, conforme os seus objetivos e o seu corpo;
+- Questionar inicialmente o utilizador sobre objetivos nutricionais específicos (perda de peso, dieta vegana, etc) e adaptar automaticamente as calorias e macros recomendadas, conforme os seus objetivos e o seu corpo;
 
--Fornecer sugestões de receitas com base nos ingredientes disponíveis;
+- Fornecer sugestões de receitas com base nos ingredientes disponíveis;
 
--Monitorizar e exibir valores nutricionais detalhados e calorias consumidas diariamente;
+- Monitorizar e exibir valores nutricionais detalhados e calorias consumidas diariamente;
 
--Gerar automaticamente listas de compras a partir das refeições planeadas;
+- Gerar automaticamente listas de compras a partir das refeições planeadas;
 
--Oferecer opções de personalização de receitas com base em restrições alimentares e preferências;
+- Oferecer opções de personalização de receitas com base em restrições alimentares e preferências;
 
 
 ## C.2. Non-functional requirements
 
--Interface intuitiva e fácil de usar;
+- Interface intuitiva e fácil de usar;
 
--Alta personalização com perfis e preferências individuais;
+- Alta personalização com perfis e preferências individuais;
 
--Bom desempenho e tempos rápidos de resposta;
+- Bom desempenho e tempos rápidos de resposta;
 
--Compatibilidade com diferentes dispositivos móveis;
+- Compatibilidade com diferentes dispositivos móveis;
 
--Capacidade de sincronização e armazenamento seguro dos dados;
+- Capacidade de sincronização e armazenamento seguro dos dados;
 
 
 ---

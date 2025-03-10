@@ -12,11 +12,26 @@
 
 **Primary Purpose:** [Facilitar a gestão culinária diária, integrando receitas personalizadas, planeamento semanal, e listas de compras inteligentes.] 
 
-**Key Features:** - [Planeamento semanal de refeições] - [Listas de compras automáticas] - [Gestão de de reciats conforme preferências] - [Receitas passo a passo]
+**Key Features:** 
+- Planeamento semanal de refeições;
+- Listas de compras automáticas;
+- Gestão de de reciats conforme preferências;
+- Receitas passo a passo.
 
-**Unique Selling Points (USPs):** - [Listas de compras personalizadas, planeamento semanal colaborativo, salvar recitas da internet, listas de compras dinâmicas. Gerar uma receita aleatórianum botão. Usar AI para ver que ingredientes tem a partir de uma foto e gerar receitas conforme esses ingredientes. ] 
+**Unique Selling Points (USPs):** 
+- Listas de compras personalizadas;
+- Planeamento semanal colaborativo;
+- Salvar recitas da internet;
+- Listas de compras dinâmicas;
+- Gerar uma receita aleatórianum botão;
+- Usar AI para ver que ingredientes tem a partir de uma foto e gerar receitas conforme esses ingredientes. 
 
-**Limitations/Weaknesses:** - [Para alterar as receitas é preciso usar o ChatBot e muitas das vezes ele não consegue fazer as alterações corretamente. Interface pouco intuitiva e complexa para utilizadores iniciantes. Quando se guarda uma receita apesar de dizer num pop-up que foi guardada, não muda o botão de guardar para mostrar isso. A quantidade dos ingredientes na lista de compras aprece de uma maneira pouco eficaz. Há receitas que não têm instruções.] 
+**Limitations/Weaknesses:** 
+- Para alterar as receitas é preciso usar o ChatBot e muitas das vezes ele não consegue fazer as alterações corretamente;
+- Interface pouco intuitiva e complexa para utilizadores iniciantes;
+- Quando se guarda uma receita apesar de dizer num pop-up que foi guardada, não muda o botão de guardar para mostrar isso;
+- A quantidade dos ingredientes na lista de compras aparece de uma maneira pouco eficaz; 
+- Há receitas que não têm instruções.
 
 
 
