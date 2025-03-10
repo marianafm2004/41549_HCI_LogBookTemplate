@@ -36,18 +36,18 @@
 
 
 ## Screenshots
-![AI ingredientes](<Screenshot 2025-03-10 at 15.13.40.png>)
-![Homepage](<Screenshot 2025-03-10 at 15.13.01.png>)
-![Lista de Compras](image-2.png)
-![Planeamento](<Screenshot 2025-03-10 at 15.11.45.png>)
-![Adicionar refeição ao Planeamento](<Screenshot 2025-03-10 at 15.11.42.png>)
-![Adicionar refeição ao Planeamento pt.2](<Screenshot 2025-03-10 at 15.11.36.png>)
-![Criar receita aleatória](<Screenshot 2025-03-10 at 15.11.02.png>)
-![Pagina de preferências e outras coisas](<Screenshot 2025-03-10 at 15.10.56.png>)
-![Timer em receitas](<Screenshot 2025-03-10 at 15.09.51.png>)
-![Passo a passo nas receitas](<Screenshot 2025-03-10 at 15.08.57.png>)
-![Lista de ingredientes no passo a passo](<Screenshot 2025-03-10 at 15.08.36.png>)
-![Receita](<Screenshot 2025-03-10 at 15.04.28.png>)
+![AI ingredientes](<imagens/Screenshot 2025-03-10 at 15.13.40.png>)
+![Homepage](<imagens/Screenshot 2025-03-10 at 15.13.01.png>)
+![Lista de Compras](imagens/image-2.png)
+![Planeamento](<imagens/Screenshot 2025-03-10 at 15.11.45.png>)
+![Adicionar refeição ao Planeamento](<imagens/Screenshot 2025-03-10 at 15.11.42.png>)
+![Adicionar refeição ao Planeamento pt.2](<imagens/naScreenshot 2025-03-10 at 15.11.36.png>)
+![Criar receita aleatória](<imagens/Screenshot 2025-03-10 at 15.11.02.png>)
+![Pagina de preferências e outras coisas](<imagens/Screenshot 2025-03-10 at 15.10.56.png>)
+![Timer em receitas](<imagens/Screenshot 2025-03-10 at 15.09.51.png>)
+![Passo a passo nas receitas](<imagens/Screenshot 2025-03-10 at 15.08.57.png>)
+![Lista de ingredientes no passo a passo](<imagens/Screenshot 2025-03-10 at 15.08.36.png>)
+![Receita](<imagens/Screenshot 2025-03-10 at 15.04.28.png>)
 
 
 ## Online Reviews

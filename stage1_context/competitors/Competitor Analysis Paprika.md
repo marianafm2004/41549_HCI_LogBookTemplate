@@ -21,9 +21,10 @@
 ---
 
 ## Screenshots
-![menu](menu.jpg)
-![pagina principal](Pagina_principal.jpg)
-![procura de receitas](procura_receitas.jpg)
-![receita](receita.jpg)
+![menu](imagens/menu.jpg)
+
+![pagina principal](imagens/Pagina_principal.jpg)
+![procura de receitas](imagens/procura_receitas.jpg)
+![receita](imagens/receita.jpg)
 ## Online Reviews
 this has changed, positively, my eating and food shopping experience. It removes so much hassle from deciding what to eat, creating a shopping list, adjusting quantities, importing recepies, stopping duplication, etc. Genius ! I Hope the people behind it are really proud of it. And I love that fact it's one off fee to have 50+ recipies and not a subscription. I have been telling everyone i know how great it is. Only thing I'd like is a batch cooking option for the meal planner. Joanna Hobbs 31/12/2024.
