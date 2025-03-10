@@ -14,6 +14,12 @@
 ## Daily Life  
 [Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
 
+**O dia do Alexandre começa cedo, mas sem grande vontade de preparar um pequeno-almoço elaborado. Normalmente, come algo rápido como iogurte com granola ou uma sandes de fiambre antes de sair para a faculdade. Passa boa parte do dia em aulas e, como não tem muito tempo para almoçar, opta por refeições rápidas e práticas, muitas vezes compradas na cantina ou num café próximo.**
+
+**À tarde, depois das aulas, vai ao ginásio, onde se esforça para seguir o plano de treino. No entanto, quando chega a casa, o cansaço bate e a última coisa que quer é passar muito tempo na cozinha. Por isso, acaba sempre a cozinhar as mesmas refeições básicas e sem grande sabor.**
+
+**Apesar de usar o telemóvel e o computador para quase tudo, ainda não encontrou uma forma eficiente de organizar a sua alimentação. Costuma pesquisar receitas no Google e ver vídeos no YouTube, mas rapidamente se sente perdido ou desmotivado. O ideal seria ter uma solução que simplificasse a escolha das refeições e o ajudasse a manter uma alimentação equilibrada sem ter de pensar demasiado nisso.**
+
 ## Goals & Needs  
 [Explain what the persona wants to achieve in their personal or professional life. What are their aspirations? What problems are they trying to solve?]  
 
