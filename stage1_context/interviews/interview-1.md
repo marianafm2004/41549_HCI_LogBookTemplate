@@ -11,6 +11,7 @@
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
+ 
 ["Quero conseguir organizar melhor as minhas refeições semanais, garantindo que tenho todos os ingredientes necessários e consigo acompanhar as calorias de cada refeição. Também gostaria de ter sugestões de substituições para ingredientes que por vezes me faltam."] 
 
 **What are the main pain points or difficulties they experience?** 

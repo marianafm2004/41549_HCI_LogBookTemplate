@@ -14,6 +14,11 @@
 ## Daily Life  
 [Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
 
+**O dia da Sónia começa cedo, muitas vezes antes do nascer do sol. Antes de sair para o hospital, tenta preparar o pequeno-almoço para a família e, se tiver tempo, organiza mentalmente o que vai cozinhar ao final do dia. No entanto, as manhãs são sempre apressadas, e nem sempre consegue deixar tudo planeado.**
+**No trabalho, a rotina é intensa. Entre consultas, reuniões e a gestão da equipa, raramente tem tempo para pensar em si mesma, quanto mais para planear as refeições da semana. Durante a pausa para almoço, come qualquer coisa rápida na cantina do hospital, muitas vezes desejando ter uma opção mais saudável e saborosa.**
+**Ao fim do dia, depois de um turno cansativo, regressa a casa já sem muita energia. É nesse momento que enfrenta um dos seus maiores desafios: decidir o que cozinhar. Muitas vezes, percebe que lhe faltam ingredientes essenciais ou sente que está sempre a repetir os mesmos pratos. Nessas alturas, improvisa com o que tem ou, em último caso, opta por algo mais simples, mas menos nutritivo do que gostaria.**
+**Apesar da falta de tempo, Sónia valoriza a alimentação equilibrada e o bem-estar da família. Usa o telemóvel para procurar receitas e dicas rápidas de cozinha, mas raramente tem paciência para perder tempo a organizar listas de compras ou menus semanais. Uma solução que lhe permitisse planear refeições de forma prática e garantir que nunca falta nada na despensa tornaria o seu dia a dia muito mais fácil e menos stressante.**
+
 ## Goals & Needs  
 [Explain what the persona wants to achieve in their personal or professional life. What are their aspirations? What problems are they trying to solve?]  
 
