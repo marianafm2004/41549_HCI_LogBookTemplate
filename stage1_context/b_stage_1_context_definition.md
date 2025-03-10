@@ -14,7 +14,7 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
+| [Paprika]    | [Plataforma de receitas e planeamento de refeições]        | [[Competitor Analysis Paprika]] |
 | [Cookpanion] 		| [Plataforma de receitas e planeamento de refeições]   |[[Competitor Analysis Cookpanion]]  | 						
 |                |                                             |                                     |
 
@@ -37,29 +37,35 @@
 
 
 - [expert1_heuristic_evaluation_workbook](heuristic_evaluations/expert1_heuristic_evaluation_workbook.md)
-
+-[expert1_heuristic_evaluation_workbook 2](<heuristic_evaluations/expert1_heuristic_evaluation_workbook 2.md>)
 - [expert2_heuristic_evaluation_workbook](heuristic_evaluations/expert2_heuristic_evaluation_workbook.md)
-
+-[expert2_heuristic_evaluation_workbook 2](<heuristic_evaluations/expert2_heuristic_evaluation_workbook 2.md>)
 - [expert3_heuristic_evaluation_workbook](heuristic_evaluations/expert3_heuristic_evaluation_workbook.md)
-
+-[expert3_heuristic_evaluation_workbook 2](<heuristic_evaluations/expert3_heuristic_evaluation_workbook 2.md>)
 
 #### Consensus
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
+| **Issue**       | **João Cabral** | **Mariana Marques** | **André Nunes** | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
-
-
+| Dificil adicionar receitas(Paprika-7) | 3            | 3        | 3        | Disponibilizar catálogo interno com receitas básicas |
+| As receitas não contém calorias nem macros(Paprika-4)  | 3            | 3        | 2        | Adicionar automaticamente calorias e macros |
+| As receitas não contém calorias nem macros(Paprika-8) | 2            | 2        | 2        | Evitar simplificação excessiva da informação nutricional |
+| Navegação na app é dificil(Paprika-6)   | 2            | 2        | 2        |  Melhorar a interface para facilitar a navegação                    |
+| É possivel criar receitas vazias(Paprika-5) | 1            | 1        | 1        | Impedir criação de receitas vazias |
+| Escolher restrições alimentares sem explicação de cada uma(cookpanion-2)   | 2            | 2        | 2        |  Incluir descrições detalhadas de cada restrição                   |
+| Dificil alterar receitas(cookpanion-6) | 2            | 3        | 2        | Tornar mais acessível o bot de edição das receitas |
+| Dificil alterar receitas(cookpanion-7)   | 4            | 3        | 4        | Adicionar a opção de adicionar/retirar ingredientes                   |
+| Dificil alterar receitas(cookpanion-8) | 2            | 3        | 3        | Permitir alteração direta, sem recurso ao bot   |
 
 ---
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+[1-Identificar tarefas principais
+2-Analizar a tarefa
+3-Analizar as subtarefas ]
 
 #### Task Selection and Task Analysis
 
@@ -68,30 +74,39 @@
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| **1. Adicionar receita, quando ainda já existe receitas na app** | Clicar no botão do browser    |
+|                             | Procurar receitas |
+|                             | Selecionar receita      |
+|                             |	Adicionar receita à app                  |
 
 
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
+| **2. Adicionar refeição** | Clicar no botão refeições|
+|                               | adicionar refeição             |
+|                               | adicionar receita             |
+|                               | escolher data e qual refeição        |
 
 
 #### Results
 
-Task: [This is the task]
+Task: [1. Adicionar receita, quando ainda já existe receitas na app]
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | [Clicar no botão do browser]   | [No]                                         |Não se encontra na página principal. É necessário aceder ao menu para conseguir ver       | [Yes]                                                                                  |       | [Yes]                       | [Colocar um botao de adicionar receitas na página principal]              |     |
+| 2      | [Procurar receitas]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []              |     |
+| 3      | [Selecionar receita]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []              |     |
+| ...    | [Adicionar receita à app]        | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []               |     |
+
+Task: [2. Adicionar refeição]
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | [Clicar no botão refeições]   | [Yes]                                         |Apesar de não estar na pagina principal é intuitivo ir ao menu para o encontrar       | [Yes]                                                                                  |       | [Yes]                       | [Botão igual ao que se encontra nas secção das receitas mas tem funcionalidade diferente (um edita o outro adiciona)]              |     |
+| 2      | [Procurar receitas]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []              |     |
+| 3      | [Selecionar receita]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []              |     |
+| ...    | [Adicionar receita à app]        | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []               |     |
 
 ## B.1c. Overall Analysis
 
