@@ -4,7 +4,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 
 **Evaluator**: [João Cabral]
 **Date**: [18-02-2025]
-**Product**: [CookPanion]
+**Product**: [Paprika app]
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
@@ -26,8 +26,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Faz escolhas das restrições alimentares sem informação nenhuma | 2            | Incluir descrição de cada restrição               |
-
+||||
+||||
 
 # 3 User Control and Freedom
 >	Users often perform actions by mistake. They need a clearly marked "emergency exit" to leave the unwanted action without having to go through an extended process. 
@@ -48,8 +48,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-||||
-||||
+| Sem Calorias ou macros | 3            | Ao adicionar a receita a app adicionar tambem as calorias e macros                |
 
 # 5 Error Prevention
 >	Good error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action. 
@@ -58,8 +57,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-||||
-||||
+| É possivel criar receitas sem nada | 1            |Dar erro quando a receita não contiver nada                |
 
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
@@ -68,7 +66,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Dificil alterar receitas | 2              | Tornar mais intuitivo chegar ao bot que altera as receitas              |
+| Navegação na app é dificil | 2            | Atualizar o UI para tornar a navegação mais facil               |
 
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
@@ -77,7 +75,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Dificil alterar receitas | 4            | Adicionar a opção de adicionar/retirar ingredientes             |
+| Dificil adicionar receitas | 3            | Ter algumas receitas na app, para não ter que ir sempre à web para encontrar uma               |
 
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
@@ -86,7 +84,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Dificil alterar receitas | 2            |  Utilizar o bot para alterar receitas               |
+| Sem calorias nem macros | 2            | Não reduzir tanto a informação da receita pois está a perder informações importantes               |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
