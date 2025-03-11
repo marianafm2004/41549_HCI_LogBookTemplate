@@ -77,7 +77,7 @@ Após as avaliações individuais, discutimos os resultados e ouvimos as opiniõ
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Adicionar receita, quando ainda já existe receitas na app** | Clicar no botão do browser    |
+| **1. Adicionar receita, quando  já existe receitas guardadas na app** | Clicar no botão do browser    |
 |                             | Procurar receitas |
 |                             | Selecionar receita      |
 |                             |	Adicionar receita à app                  |
@@ -93,14 +93,14 @@ Após as avaliações individuais, discutimos os resultados e ouvimos as opiniõ
 
 #### Results
 
-Task: [1. Adicionar receita, quando ainda já existe receitas na app]
+Task: [1. Adicionar receita, quando já existe receitas guardadas na app]
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Clicar no botão do browser]   | [No]                                         |Não se encontra na página principal. É necessário aceder ao menu para conseguir ver       | [Yes]                                                                                  |       | [Yes]                       | [Colocar um botao de adicionar receitas na página principal]              |     |
+| 1      | [Clicar no botão do browser]   | [No]                                         |Não se encontra na página principal. É necessário aceder ao menu para conseguir ver.       | [Yes]                                                                                  |       | [Yes]                       | [Colocar um botao de adicionar receitas na página principal]              |     |
 | 2      | [Procurar receitas]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []              |     |
 | 3      | [Selecionar receita]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []              |     |
-| ...    | [Adicionar receita à app]        | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []               |     |
+| 4    | [Adicionar receita à app]        | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []               |     |
 
 Task: [2. Adicionar refeição]
 
@@ -109,7 +109,7 @@ Task: [2. Adicionar refeição]
 | 1      | [Clicar no botão refeições]   | [Yes]                                         |Apesar de não estar na pagina principal é intuitivo ir ao menu para o encontrar       | [Yes]                                                                                  |       | [Yes]                       | [Botão igual ao que se encontra nas secção das receitas mas tem funcionalidade diferente (um edita o outro adiciona)]              |     |
 | 2      | [Procurar receitas]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []              |     |
 | 3      | [Selecionar receita]   | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []              |     |
-| ...    | [Adicionar receita à app]        | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []               |     |
+| 4    | [Adicionar receita à app]        | [Yes]                                         |       | [Yes]                                                                                  |       | [Yes]                       | []               |     |
 
 ## B.1c. Overall Analysis
 
@@ -124,9 +124,9 @@ Task: [2. Adicionar refeição]
 - Lista de compras.
 
 **Pontos Fracos:**
-- Dificil adicionar receitas;
+- Difícil adicionar receitas;
 - As receitas não contém calorias nem macros;
-- Navegação na app é dificil.
+- Navegação na app é difícil.
 
 **Oportunidades:**
 - Modo cozinha, para ajudar os utilizadores a utilizar as receitas;
@@ -136,7 +136,7 @@ Task: [2. Adicionar refeição]
 - Mostrar opções de substitutos de alimentos.
 
 **Ameaças:**
-- Pode existir uma dificuldade de apresentar as diversas funcionalidades pretendiadas de forma clara e intuitiva, sem sobrecarregar o utilizador.
+- Pode existir uma dificuldade de apresentar as diversas funcionalidades pretendidas de forma clara e intuitiva, sem sobrecarregar o utilizador.
 
 ---
 
@@ -156,18 +156,18 @@ Task: [2. Adicionar refeição]
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 25-02-2025 | Anonymous / student| Gostava de uma App mais relacionada com Fitness                 | [📄 Notes](interview-1.md)   |     |
-| 25-02-2025 | Anonymous / student| Gostava de uma App mais relacionada com Receitas e agendamento de refeições| [📄 Notes](interview-2.md)   |     |
+| 25-02-2025 | Anonymous / student| Gostava de uma _app_ mais relacionada com receitas e agendamento de refeições                 | [📄 Notes](interviews/interview-1.md)   |     |
+| 25-02-2025 | Anonymous / student| Gostava de uma _app_ mais relacionada com Fitness | [📄 Notes](interviews/interview-2.md)   |     |
 
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Ter o seu menu semanal organizado
-	- Encontrar substituição de alimentos que não tem em casa
+	- Ter o seu menu semanal organizado;
+	- Encontrar substituição de alimentos que não tem em casa.
 - **Frequently Used Tools:** 
-	- Pesquisa no Google
+	- Pesquisa no Google.
 - **Desired Features / Solutions:** 
-	- Calendário/Agendamento de refeições
+	- Calendário/Agendamento de refeições.
 - --- 
 
 

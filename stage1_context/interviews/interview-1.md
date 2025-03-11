@@ -12,7 +12,7 @@
 
  **What task is the user trying to accomplish?** 
 
-["Quero conseguir organizar as minhas refeições semanais sem ter de perder tempo a planear tudo manualmente. Seria ideal se conseguisse adicionar receitas ao meu menu e automaticamente criar uma lista de compras com os ingredientes necessários. Além disso, gostava de ter uma forma mais prática de seguir as receitas enquanto cozinho, sem precisar de ler textos longos ou perder tempo a procurar informações."] 
+"Quero conseguir organizar as minhas refeições semanais sem ter de perder tempo a planear tudo manualmente. Seria ideal se conseguisse adicionar receitas ao meu menu e automaticamente criar uma lista de compras com os ingredientes necessários. Além disso, gostava de ter uma forma mais prática de seguir as receitas enquanto cozinho, sem precisar de ler textos longos ou perder tempo a procurar informações." 
 
 **What are the main pain points or difficulties they experience?** 
 - Ter o seu menu semanal organizado;
@@ -20,7 +20,7 @@
 - Encontrar substituição de alimentos que não têm em casa.
 
 **Are there any workarounds or strategies they currently use?** 
-- [No] 
+- No
 
 ---- 
 ## Tools & Environment 

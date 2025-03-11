@@ -1,8 +1,8 @@
-# ![Sónia](image.png)
-**Name:** [Sónia]  
-**Age:** [45 anos]  
-**Occupation:** [Enfermeira]  
-**Location:** [Anadia, Portugal]  
+# ![Sónia](persona1.jpeg)
+**Name:** Sónia  
+**Age:** 45 anos  
+**Occupation:** Enfermeira  
+**Location:** Anadia, Portugal  
 
 ## Background  
 [Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  

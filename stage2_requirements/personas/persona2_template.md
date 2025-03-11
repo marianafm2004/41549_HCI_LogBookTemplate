@@ -1,14 +1,14 @@
 # ![Alexandre](persona2.jpeg) 
-**Name:** [Alexandre]  
-**Age:** [19 anos]  
-**Occupation:** [Estudante Universitário]  
-**Location:** [Braga, Portugal]  
+**Name:** Alexandre 
+**Age:** 19 anos  
+**Occupation:** Estudante Universitário
+**Location:** Braga, Portugal  
 
 ## Background  
 [Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  
 
 **O Alexandre, ou Xandinho(para os amigos), é o filho da Sónia, tem 19 anos e está a estudar Economia em Braga. Sempre foi um pouco mais cheinho, mas quando entrou na universidade decidiu mudar isso e começou a ir ao ginásio para entrar em forma.**
-**A mãe sempre foi ótima na cozinha, e o Alexandre gostava de seguir os seus passos, mas ainda está a aprender. Para já, o menu dele é básico — bife de frango insosso com arroz empapado e massa com atum.**
+**A mãe sempre foi ótima na cozinha, e o Alexandre gostava de seguir os seus passos, mas ainda está a aprender. Para já, o menu dele é básico - bife de frango insosso com arroz empapado e massa com atum.**
 **Ele quer seguir uma dieta equilibrada para ganhar músculo, mas falta-lhe paciência e tempo para cozinhar. Também não gosta de vegetais, o que dificulta ainda mais variar as refeições.**
 
 ## Daily Life  

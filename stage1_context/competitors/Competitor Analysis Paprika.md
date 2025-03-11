@@ -10,13 +10,21 @@
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** [Os principais objetivos da app é gerenciar receitas, listas de compras e planear refeicoes] 
+**Primary Purpose:** 
+Os principais objetivos da app é gerenciar receitas, listas de compras e planear refeicoes.
 
-**Key Features:** - [Organização de receitas] - [Download automatico de receitas da web] - [Lista de compras automáticas] 
+**Key Features:** 
+- Organização de receitas;
+- Download automático de receitas da web; 
+- Lista de compras automáticas.
 
-**Unique Selling Points (USPs):** - [Integração com a web para procurar e adicionar receitas facilmente] 
+**Unique Selling Points (USPs):** 
+- Integração com a web para procurar e adicionar receitas automaticamente.
 
-**Limitations/Weaknesses:** - [Processo de adição de receitas pouco intuitivo, falta de informações nutricionais, como calorias e macros e interface visual rudimentar e desorganizada] 
+**Limitations/Weaknesses:** 
+- Processo de adição de receitas pouco intuitivo;
+- Falta de informações nutricionais, como calorias e macros;
+- Interface visual rudimentar e desorganizada.
 
 ---
 

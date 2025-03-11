@@ -24,10 +24,10 @@
 - Salvar recitas da internet;
 - Listas de compras dinâmicas;
 - Gerar uma receita aleatórianum botão;
-- Usar AI para ver que ingredientes tem a partir de uma foto e gerar receitas conforme esses ingredientes. 
+- Usar AI para ver que ingredientes tem, a partir de uma foto, e gerar receitas conforme esses ingredientes. 
 
 **Limitations/Weaknesses:** 
-- Para alterar as receitas é preciso usar o ChatBot e muitas das vezes ele não consegue fazer as alterações corretamente;
+- Para alterar as receitas é preciso usar o ChatBot e muitas das vezes ele não consegue fazer as alterações corretamente ou demora muito tempo a as realizar;
 - Interface pouco intuitiva e complexa para utilizadores iniciantes;
 - Quando se guarda uma receita apesar de dizer num pop-up que foi guardada, não muda o botão de guardar para mostrar isso;
 - A quantidade dos ingredientes na lista de compras aparece de uma maneira pouco eficaz; 

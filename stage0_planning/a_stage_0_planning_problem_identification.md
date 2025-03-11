@@ -16,15 +16,15 @@ O contexto do projeto é a gestão culinária diária e doméstica. Muitas pesso
 
 As principais dificuldades incluem:
 
-    -Planear refeições semanais eficazmente, sem desperdícios e sem muita repetição;
+- Planear refeições semanais eficazmente, sem desperdícios e sem muita repetição;
 
-    -Criar receitas adaptadas ao tempo disponível e aos ingredientes existentes;
+- Criar receitas adaptadas ao tempo disponível e aos ingredientes existentes;
 
-    -Monitorizar a ingestão diária de macronutrientes e calorias;
+- Monitorizar a ingestão diária de macronutrientes e calorias;
 
-    -Gerar listas de compras com base no planeamento semanal;
+- Gerar listas de compras com base no planeamento semanal;
 
-    -Adaptar as refeições às preferências pessoais, restrições alimentares e objetivos nutricionais.
+- Adaptar as refeições às preferências pessoais, restrições alimentares e objetivos nutricionais.
 
 Uma solução tecnológica e personalizável, com receitas, menus e uma abordagem mais completa, semelhante a um livro de receitas combinado com funcionalidades avançadas de monitorização nutricional e calórica, poderia simplificar significativamente estes desafios.
 

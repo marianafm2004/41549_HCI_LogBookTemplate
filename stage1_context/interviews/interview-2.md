@@ -12,7 +12,7 @@
 
  **What task is the user trying to accomplish?** 
 
-["Quero conseguir organizar melhor as minhas refeições semanais, garantindo que tenho todos os ingredientes necessários e consigo acompanhar as calorias de cada refeição. Também gostaria de ter sugestões de substituições para ingredientes que por vezes me faltam."] 
+"Quero conseguir organizar melhor as minhas refeições semanais, garantindo que tenho todos os ingredientes necessários e consigo acompanhar as calorias de cada refeição. Também gostaria de ter sugestões de substituições para ingredientes que por vezes me faltam." 
 
 **What are the main pain points or difficulties they experience?** 
 - Ter o seu menu semanal organizado;
@@ -43,7 +43,7 @@
 - None
 
 **How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
+- Não responderam.
 
 --- 
 ## Additional Observations 
