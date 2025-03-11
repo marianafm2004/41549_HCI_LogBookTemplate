@@ -11,7 +11,7 @@
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+["Quero conseguir organizar melhor as minhas refeições semanais, garantindo que tenho todos os ingredientes necessários e consigo acompanhar as calorias de cada refeição. Também gostaria de ter sugestões de substituições para ingredientes que por vezes me faltam."] 
 
 **What are the main pain points or difficulties they experience?** 
 - [Ter o seu menu semanal organizado] 
@@ -39,8 +39,7 @@
 - [Procura uma app com calorie tracking, calendario de refeições, substituição de ingredientes em receitas] 
 
 **What concerns or hesitations do they have about new approaches?** 
-- [Concern 1] 
-- [Concern 2] 
+- None
 
 **How do they measure success for completing the task efficiently?** 
 - [Efficiency metric or criteria] 
