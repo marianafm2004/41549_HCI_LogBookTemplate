@@ -11,32 +11,33 @@
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
+
 ["Quero conseguir organizar melhor as minhas refeições semanais, garantindo que tenho todos os ingredientes necessários e consigo acompanhar as calorias de cada refeição. Também gostaria de ter sugestões de substituições para ingredientes que por vezes me faltam."] 
 
 **What are the main pain points or difficulties they experience?** 
-- [Ter o seu menu semanal organizado] 
-- [Calorie Tracking por refeição] 
-- [Encontrar substituição de alimentos que não tem] 
+- Ter o seu menu semanal organizado;
+- Calorie Tracking por refeição;
+- Encontrar substituição de alimentos que não tem em casa.
 
 **Are there any workarounds or strategies they currently use?** 
-- [No] 
+- No.
 
 ---- 
 ## Tools & Environment 
 **What tools or methods does the user currently rely on?** 
-- [Pesquisa no Google de receitas] 
+- Pesquisa no Google de receitas. 
 
 **Are there any frustrations or limitations with these tools?** 
-- [Não existe qualquer parte otimizada nem parte de organização ]  
+- Não existe qualquer parte otimizada nem parte de organização  
 
 **What features do they wish these tools had?** 
-- [Calorie Tracking] 
-- [Agendamento de refeições] 
+- Calorie Tracking; 
+- Agendamento de refeições.
 --- 
 ## Expectations for a Novel Approach 
 
 **What would an ideal solution look like for them?** 
-- [Procura uma app com calorie tracking, calendario de refeições, substituição de ingredientes em receitas] 
+- Procura uma app com calorie tracking, calendário de refeições e que sugira substituição de ingredientes em receitas.
 
 **What concerns or hesitations do they have about new approaches?** 
 - None
