@@ -47,7 +47,7 @@
 # Scenarios
 
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 1: Sónia gets home after work
 
 Após um longo dia de trabalho no hospital, a Sónia chega a casa cansada, mas aliviada ao saber que o jantar já está completamente organizado com a ajuda do NutriChef. Ao sentar-se no sofá, relaxa um pouco e abre a app, encontrando imediatamente o menu do dia, que inclui frango com molho teriyaki, brócolos assados e arroz soltinho. A aplicação mostra os ingredientes que vai precisar e a Sónia já os tem, uma vez que já tinha planeado o menu semanal e feito todas as compras no domingo.
 
