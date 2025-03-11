@@ -115,29 +115,28 @@ Task: [2. Adicionar refeição]
 
 [Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
 
-**O nosso principal competidor é a app "Paprika". Os recursos mais valorizados nesta app são a lista de compras e a organização da despensa.**
+**O nosso principal competidor é a _app_ "Paprika". Os recursos mais valorizados nesta app são a lista de compras e a organização da despensa.**
 
 **Análise SWOT**
 
 **Pontos Fortes:**
-**- Tem organização da despensa**
-**- Lista de compras**
+- Tem organização da despensa;
+- Lista de compras.
 
 **Pontos Fracos:**
-**- Dificil adicionar receitas**
-**- As receitas não contém calorias nem macros**
-**- As receitas não contém calorias nem macros**
-**- Navegação na app é dificil**
+- Dificil adicionar receitas;
+- As receitas não contém calorias nem macros;
+- Navegação na app é dificil.
 
 **Oportunidades:**
-**- Modo cozinha, para ajudar os utilizadores a utilizar as receitas**
-**- Acessibilade e facilidade no uso da aplicação**
-**- Calorie Tracking**
-**- Receitas por ocasião**
-**- Mostrar opções de substitutos de alimentos**
+- Modo cozinha, para ajudar os utilizadores a utilizar as receitas;
+- Acessibilade e facilidade no uso da aplicação;
+- Calorie Tracking;
+- Receitas por ocasião;
+- Mostrar opções de substitutos de alimentos.
 
 **Ameaças:**
-**- Pode existir uma dificuldade de apresentar as diversas funcionalidades pretendiadas de forma clara e intuitiva, sem sobrecarregar o utilizador**
+- Pode existir uma dificuldade de apresentar as diversas funcionalidades pretendiadas de forma clara e intuitiva, sem sobrecarregar o utilizador.
 
 ---
 
