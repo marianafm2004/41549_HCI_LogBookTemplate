@@ -30,6 +30,9 @@
 #### Method
 [ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 
+A avaliação foi realizada em contexto de aula, com o nosso grupo de 3 a atuar como avaliadores. Cada membro do grupo analisou a interface de forma independente, identificando problemas de usabilidade com base nas heurística. Os problemas encontrados foram registrados, associando a cada um uma pontuação de gravidade.
+Após as avaliações individuais, discutimos os resultados e ouvimos as opiniões uns dos outros sobre cada problema para assim chegarmos a avalição final de cada um. Colocamos numa tabela e fizemos a média de forma a obtermos o resultado final.
+
 
 #### Individual Evaluations
 <!-- For the individual heuristic evaluations by each member of the group, you can use the templates below, grouping problems by heuristic OR each evaluator can have a table listing all the detected problems with the number of the violated heuristics on the second column. Whichever your choice, you should have a list of problems, the severity, and a recommendation to mitigate it -->
@@ -83,9 +86,9 @@
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
 | **2. Adicionar refeição** | Clicar no botão refeições|
-|                               | adicionar refeição             |
-|                               | adicionar receita             |
-|                               | escolher data e qual refeição        |
+|                               | Adicionar refeição             |
+|                               | Adicionar receita             |
+|                               | Escolher data e qual refeição        |
 
 
 #### Results

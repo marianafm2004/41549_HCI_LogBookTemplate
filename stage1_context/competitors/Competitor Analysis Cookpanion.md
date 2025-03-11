@@ -41,7 +41,7 @@
 ![Lista de Compras](imagens/image-2.png)
 ![Planeamento](<imagens/Screenshot 2025-03-10 at 15.11.45.png>)
 ![Adicionar refeição ao Planeamento](<imagens/Screenshot 2025-03-10 at 15.11.42.png>)
-![Adicionar refeição ao Planeamento pt.2](<imagens/naScreenshot 2025-03-10 at 15.11.36.png>)
+![Adicionar refeição ao Planeamento pt.2](<imagens/Screenshot 2025-03-10 at 15.11.36.png>)
 ![Criar receita aleatória](<imagens/Screenshot 2025-03-10 at 15.11.02.png>)
 ![Pagina de preferências e outras coisas](<imagens/Screenshot 2025-03-10 at 15.10.56.png>)
 ![Timer em receitas](<imagens/Screenshot 2025-03-10 at 15.09.51.png>)

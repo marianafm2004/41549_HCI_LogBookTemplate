@@ -20,7 +20,7 @@
 - Encontrar substituição de alimentos que não tem.
 
 **Are there any workarounds or strategies they currently use?** 
-- [No] 
+- No
 
 ---- 
 ## Tools & Environment 
@@ -32,7 +32,7 @@
 - O suposto "Passo a passo" é demasiado textual e de dificil compreensão.
 
 **What features do they wish these tools had?** 
-- Carrinho "automático";
+- Lista de compras "automática";
 - Agendamento de refeições semanal;
 - Modo cozinha.
 
@@ -40,7 +40,7 @@
 ## Expectations for a Novel Approach 
 
 **What would an ideal solution look like for them?** 
-- Procura uma _app_ com calendario de refeições semanais, substituição de ingredientes em receitas, adição a um carrinho da app dos ingredientes a comprar, um "modo cozinha" que facilita o acompanhamento de receitas, algo focado em receitas e não em _calorie tracking_. 
+- Procura uma _app_ com calendário de refeições semanais, substituição de ingredientes em receitas, adição a um carrinho da app dos ingredientes a comprar, um "modo cozinha" que facilita o acompanhamento de receitas, algo focado em receitas e não em _calorie tracking_. 
 
 **How do they measure success for completing the task efficiently?** 
 - Focada em receitas;
