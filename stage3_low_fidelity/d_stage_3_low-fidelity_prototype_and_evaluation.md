@@ -78,13 +78,13 @@ Realizámos uma avaliação  com 4 participantes que correspondem às nossas *Pe
 
 2. **Rótulos e terminologia**
 
-   - A opção **Normal** em preferências dietárias gera confusão; substituir por **_Without Preferences_**.
+   - A opção **Normal** em preferências dietárias gera confusão, substituir por **_Without Preferences_**.
    - Botões **Not now** e **Continuar** são redundantes.
-   - Botão de editar na página principal não era muito óbio.
+   - Botão de editar na página principal não era muito óbvio.
 
 3. **Fluxo de interacção**
 
-   - Vários participantes tocaram no separador *Receitas* quando pretendiam adicionar uma refeição, colocar lá um botão para tal.
+   - Vários participantes tocaram na aba *Receitas* quando pretendiam adicionar uma refeição, colocar lá um botão para tal.
    - Processo de guardar receita confuso entre botão `+` e *flag*, sugerem botão **Guardar** consistente.
 
 4. **Funcionalidade em falta**
