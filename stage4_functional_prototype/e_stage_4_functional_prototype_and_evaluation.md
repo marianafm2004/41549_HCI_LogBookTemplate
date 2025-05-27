@@ -122,6 +122,14 @@ I need to learn a lot of things before I could get going with this system:
 
 ![alt text](<i need to learn a lot of things before i could get going with this system.png>)
 
+### Nota SUS
+
+91.783%
+
+### Conclusão
+
+Os resultados obtidos, tanto no questionário SUS (com uma pontuação de 91.8) como nas observações feitas durante os testesm mostram claramente que a aplicação NutriChef tem uma usabilidade excelente. Os utilizadores disseram sentir-se confiantes e à vontade ao usar o sistema, aprendendo rapidamente como tudo funciona. De uma forma geral, acharam a experiência fluida e bem organizada. Embora tenham surgido algumas sugestões para melhorar pequenos detalhes, como a navegação entre dias ou o fluxo após o registo, estas não afetaram negativamente a opinião que tiveram: a aplicação funciona bem, é intuitiva e dá gosto de usar.
+
 ---
 
 [Back to main Logbook Page](../hci_logbook.md)
