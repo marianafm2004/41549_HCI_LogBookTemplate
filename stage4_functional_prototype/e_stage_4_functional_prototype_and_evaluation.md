@@ -80,11 +80,11 @@ Gender:
 
 Age:
 
-![alt text](age.jpg)
+![alt text](age.png)
 
 I think  that I would like to use this system frequently:
 
-![alt text](<i think  that i would like to use this system frequently.png>)
+![alt text](<i think that i would like to use this system frequently.png>)
 
 I found the system unnecessarily complex:
 
