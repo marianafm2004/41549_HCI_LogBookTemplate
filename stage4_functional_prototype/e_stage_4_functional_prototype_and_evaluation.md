@@ -9,16 +9,27 @@
 A versão funcional da aplicação NutriChef foi implementada com recurso ao framework React e TailwindCSS, utilizando localStorage para persistência de dados e integrando uma API externa para obtenção de receitas. As principais funcionalidades implementadas incluem registo e login de utilizadores, configuração inicial (preferências alimentares, objetivos, dados físicos), gestão de receitas personalizadas, planeamento alimentar semanal, visualização de estatísticas e lista de compras interativa.
 
 Prints of the app:
+
 Main page:
+
 ![Main page](mainPage.png)
+
 Stats Page:
+
 ![Stats page](statsPage.png)
+
 Recipe page:
+
 ![Recipe page](recipePage.png)
+
 Recipe details page:
+
 ![Recipe Details](recipeDetails.png)
+
 Shopping list page:
+
 ![Shopping Page](shoppingPage.png)
+
 ### User Evaluation
 
 **Task 1: Criar conta, dar login e responder às perguntas iniciais**
