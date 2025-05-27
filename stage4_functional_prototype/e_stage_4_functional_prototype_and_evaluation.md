@@ -72,7 +72,55 @@ Durante a avaliação, os utilizadores foram encorajados a explorar livremente a
 
 A principal limitação técnica prende-se com a utilização da API Edamam. Devido ao modelo da API usado ser o gratuito, não foi possível obter detalhes completos sobre os ingredientes de várias receitas, passos sem ser em links, geração de menu personalizada e ingredientes como um só. Esta limitação afetou diretamente a experiência na secção do carrinho de compras e obrigou a equipa a contornar o problema com simplificações no design e nos dados apresentados.
 
+Statistics:
 
+Gender:
+
+![alt text](gender.png)
+
+Age:
+
+![alt text](age.jpg)
+
+I think  that I would like to use this system frequently:
+
+![alt text](<i think  that i would like to use this system frequently.png>)
+
+I found the system unnecessarily complex:
+
+![alt text](<i found the system unnecessarily complex.jpg>)
+
+I thouth the system was easy to use:
+
+![alt text](<i thouth the system was easy to use.jpg>)
+
+I think that I would need the support of a technical person to be able to use this system:
+
+![alt text](<i think that i would need the support of a technical person to be abel to use this system.jpg>)
+
+I found the various functions in this system were well integrated:
+
+![alt text](<i found the various functions in this system were well integrated.jpg>)
+
+I thought there was too much inconsistency in the system:
+
+![alt text](<i thought there was too much inconsistency in the system.jpg>)
+
+I would imagine that most people would learn to use this system very quickly:
+
+![alt text](<i would imagine that most people would learn to use this system very quickly.png>)
+
+I found the system very cumbersome to use:
+
+![alt text](<i found the system very cumbersome to use.png>)
+
+I felt very condient uding the system:
+
+![alt text](<i felt very condient uding the system.png>)
+
+I need to learn a lot of things before I could get going with this system:
+
+![alt text](<i need to learn a lot of things before i could get going with this system.png>)
 
 ---
 
