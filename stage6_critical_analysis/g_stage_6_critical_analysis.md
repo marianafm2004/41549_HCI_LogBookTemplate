@@ -22,7 +22,9 @@ A divisão de tarefas foi feita de forma equilibrada, tendo em conta os pontos f
 | Logbook - Stage 3 e 6                                   | Mariana                     |
 | Logbook - Stage 4                                       | João                        |
 | Logbook - Stage 5                                       | André                       |
-| Apresentação final e materiais visuais                  | João e Mariana              |
+| Apresentação final                | João e Mariana              |
+| Vídeos                  | André           |
+
 
 Apesar de ter sido desenvolvido somente por nós, o projeto teve momentos de discussão com colegas e feedback informal que ajudaram a melhorar o design da interface e a usabilidade.
 
